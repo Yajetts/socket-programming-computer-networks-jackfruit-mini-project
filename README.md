@@ -34,9 +34,9 @@ Unlike traditional tools, this project uses **raw sockets**, allowing direct int
 
 ## ⚙️ How It Works
 
-![alt text](image.png)
+<img width="895" height="771" alt="image" src="https://github.com/user-attachments/assets/2198255f-29a3-484e-9322-2a84267c8408" />
 
-![alt text](image-1.png)
+<img width="893" height="760" alt="image" src="https://github.com/user-attachments/assets/aaa5d323-a91b-4f4c-a274-cba717fbb6ea" />
 
 ### 🔹 Ping
 - Sends ICMP Echo Request packets  
